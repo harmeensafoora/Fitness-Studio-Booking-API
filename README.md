@@ -26,21 +26,32 @@ The API is designed with clean architecture, authentication, validation, and pro
 starlabs-booking-api/
 │
 ├── app/
-│   ├── main.py
-│   ├── database.py
-│   ├── models.py
-│   ├── schemas.py
-│   ├── auth.py
-│   ├── dependencies.py
-│   └── routers/
-│       ├── users.py
-│       ├── classes.py
-│       └── bookings.py
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
 
+│   ├── main.py
+
+│   ├── database.py
+
+│   ├── models.py
+
+│   ├── schemas.py
+
+│   ├── auth.py
+
+│   ├── dependencies.py
+
+│   └── routers/
+
+│       ├── users.py
+
+│       ├── classes.py
+
+│       └── bookings.py
+
+│
+
+├── requirements.txt
+
+└── README.md
 
 The project follows a modular structure separating:
 - Models (database schema)
