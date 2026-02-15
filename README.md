@@ -43,11 +43,11 @@ starlabs-booking-api/
 
 │   └── routers/
 
-│       ├── users.py
+│         ├── users.py
 
-│       ├── classes.py
-
-│       └── bookings.py
+│         ├── classes.py
+  
+│         └── bookings.py
 
 │
 
